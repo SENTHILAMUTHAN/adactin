@@ -99,4 +99,3 @@ This project automates the hotel booking process on the Adactin Hotel Booking Ap
 - **Selenium WebDriver**
 - **Apache POI (for Excel data management)**
 
-By following these instructions and understanding the summary, you should be able to set up and execute the automated tests for the Adactin Hotel Booking Application.
