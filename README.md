@@ -68,28 +68,6 @@ This project automates the hotel booking process on the Adactin Hotel Booking Ap
 - **Confirmation:**
   - Captures the order number and confirmation details.
 
-## How to Run
-
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
-
-2. **Setup:**
-   - Ensure Java and Maven are installed.
-   - Add necessary dependencies in the `pom.xml` file.
-   - Update the WebDriver path in the Base class.
-
-3. **Execution:**
-   - Run the TestNG test suite:
-     ```bash
-     mvn test
-     ```
-
-4. **Reports and Screenshots:**
-   - Check the `screenshots` folder for captured images.
-   - View the TestNG reports for detailed test results.
 
 ## Dependencies
 
