@@ -1,5 +1,5 @@
 
-## Summary
+## Adactin- Hotel Room Booking Application Automation
 
 This project automates the hotel booking process on the Adactin Hotel Booking Application using the TestNG framework. 
 
