@@ -12,7 +12,7 @@ This project automates the hotel booking process on the Adactin Hotel Booking Ap
 - **Generated comprehensive reports to document test results and insights.**
 
 
-##The automation script covers the entire workflow from opening the application, logging in, searching for hotels, selecting a hotel, making a payment, and capturing the booking confirmation.The key actions in the script are:
+## The automation script covers the entire workflow from opening the application, logging in, searching for hotels, selecting a hotel, making a payment, and capturing the booking confirmation.The key actions in the script are:
 
 1. **Initial Setup and Browser Configuration:**
    - Launch the browser and maximize the window.
