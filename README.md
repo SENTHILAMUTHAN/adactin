@@ -1,7 +1,18 @@
 
 ## Summary
 
-This project automates the hotel booking process on the Adactin Hotel Booking Application using the TestNG framework. The automation script covers the entire workflow from opening the application, logging in, searching for hotels, selecting a hotel, making a payment, and capturing the booking confirmation. The key actions in the script are:
+This project automates the hotel booking process on the Adactin Hotel Booking Application using the TestNG framework. 
+
+- **Developed and executed automated tests for the hotel booking functionality on the Adactin Hotel Booking Application using the TestNG Framework.**
+- **Implemented the TestNG framework, incorporating a base class for reusable code.**
+- **Created POJO classes to maintain locators for each webpage, ensuring efficient and organized code structure.**
+- **Developed test runner classes for seamless execution of test cases.**
+- **Utilized Excel for test data management through automation.**
+- **Validated the entire process by capturing screenshots and storing them in a separate folder.**
+- **Generated comprehensive reports to document test results and insights.**
+
+
+The automation script covers the entire workflow from opening the application, logging in, searching for hotels, selecting a hotel, making a payment, and capturing the booking confirmation.The key actions in the script are:
 
 1. **Initial Setup and Browser Configuration:**
    - Launch the browser and maximize the window.
@@ -32,13 +43,6 @@ This project automates the hotel booking process on the Adactin Hotel Booking Ap
 
 ## Additional Points for README
 
-- **Developed and executed automated tests for the hotel booking functionality on the Adactin Hotel Booking Application using the TestNG Framework.**
-- **Implemented the TestNG framework, incorporating a base class for reusable code.**
-- **Created POJO classes to maintain locators for each webpage, ensuring efficient and organized code structure.**
-- **Developed test runner classes for seamless execution of test cases.**
-- **Utilized Excel for test data management through automation.**
-- **Validated the entire process by capturing screenshots and storing them in a separate folder.**
-- **Generated comprehensive reports to document test results and insights.**
 
 ## Code Highlights
 
