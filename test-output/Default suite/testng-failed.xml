@@ -6,6 +6,9 @@
       <class name="packages.adactinrunner">
         <methods>
           <include name="givingcredentials"/>
+          <include name="confirmation"/>
+          <include name="payment"/>
+          <include name="selectinghotel"/>
         </methods>
       </class> <!-- packages.adactinrunner -->
     </classes>

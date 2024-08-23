@@ -23,6 +23,7 @@ public class adactinrunner extends Base {
 
 		actionClick(build2);
 		 scnsht("homepagebuild2");
+		 System.out.println("b1");
 	}
 
 	@Test(priority=2)
@@ -47,9 +48,7 @@ public class adactinrunner extends Base {
     	WebElement selectNumberOfRooms = s.getSelectNumberOfRooms();
     	WebElement selectAdultsPerRoom = s.getSelectAdultsPerRoom();
     	WebElement selectChildrenPerRoom = s.getSelectChildrenPerRoom();
-    	//Deluxe
-    	//2 - Two
-    	//2 - Two
+    	
     	 
     	Select location= new Select(selectLocation);
     	location.selectByValue("London");
