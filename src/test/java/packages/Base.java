@@ -89,16 +89,6 @@ public class Base {
 		}
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		public static void dragAndDrop(WebElement from,WebElement to) {
 		a=new Actions(driver);
 		a.dragAndDrop(from, to).perform();
