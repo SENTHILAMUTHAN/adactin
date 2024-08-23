@@ -23,6 +23,7 @@ public class adactinrunner extends Base {
 
 		actionClick(build2);
 		 scnsht("homepagebuild2");
+		 System.out.println("master");
 	}
 
 	@Test(priority=2)
